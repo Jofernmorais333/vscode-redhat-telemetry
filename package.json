@@ -56,7 +56,7 @@
   },
   "dependencies": {
     "@segment/analytics-node": "2.2.1",
-    "countries-and-timezones": "^3.4.1",
+    "countries-and-timezones": "^3.8.0",
     "getos": "^3.2.1",
     "object-hash": "^3.0.0",
     "os-locale": "^5.0.0",
